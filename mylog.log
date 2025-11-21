@@ -1,0 +1,24 @@
+2025-11-21 12:17:49,165 - root - INFO - Test started
+2025-11-21 12:17:49,166 - root - ERROR - something went wrong
+2025-11-21 12:17:49,324 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 12:17:50,160 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 12:17:50,767 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 12:17:51,382 - WDM - INFO - Driver [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-21 13:47:07,702 - root - INFO - Test started
+2025-11-21 13:47:07,702 - root - ERROR - something went wrong
+2025-11-21 13:47:07,866 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 13:47:08,768 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 13:47:09,361 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 13:47:09,984 - WDM - INFO - Driver [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-21 13:47:49,339 - root - INFO - Test started
+2025-11-21 13:47:49,340 - root - ERROR - something went wrong
+2025-11-21 13:47:49,494 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 13:47:50,369 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 13:47:50,978 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 13:47:51,584 - WDM - INFO - Driver [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-21 13:49:13,617 - root - INFO - Test started
+2025-11-21 13:49:13,618 - root - ERROR - something went wrong
+2025-11-21 13:49:13,770 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 13:49:14,586 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 13:49:15,177 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 13:49:15,761 - WDM - INFO - Driver [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache

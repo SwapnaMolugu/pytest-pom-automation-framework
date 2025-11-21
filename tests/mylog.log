@@ -1,0 +1,74 @@
+
+
+
+2025-11-21 11:18:22,345 - root - INFO - Test started
+2025-11-21 11:18:22,345 - root - ERROR - something went wrong
+2025-11-21 11:18:22,909 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 11:18:24,433 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 11:18:25,063 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 11:18:25,738 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 11:18:27,036 - WDM - INFO - WebDriver version 142.0.7444.175 selected
+2025-11-21 11:18:27,041 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-21 11:18:27,041 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-21 11:18:27,636 - WDM - INFO - Driver downloading response is 200
+2025-11-21 11:18:28,111 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 11:18:32,660 - WDM - INFO - Driver has been saved in cache [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175]
+2025-11-21 11:22:40,978 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=53797): Read timed out. (read timeout=120)")': /session/63ab457f0e300d7325e3d5b28acf1b54
+2025-11-21 11:24:40,988 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=53797): Read timed out. (read timeout=120)")': /session/63ab457f0e300d7325e3d5b28acf1b54
+2025-11-21 11:25:54,423 - root - INFO - Test started
+2025-11-21 11:25:54,423 - root - ERROR - something went wrong
+2025-11-21 11:25:54,476 - root - INFO - Test started
+2025-11-21 11:25:54,476 - root - ERROR - something went wrong
+2025-11-21 11:25:54,604 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 11:25:54,664 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 11:25:55,592 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 11:25:55,674 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 11:25:56,270 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 11:25:56,329 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 11:25:56,923 - WDM - INFO - Driver [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-21 11:25:56,969 - WDM - INFO - Driver [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-21 11:30:20,526 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=53884): Read timed out. (read timeout=120)")': /session/048cec1ddae022c482952d88ba314c8d
+2025-11-21 11:32:20,529 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=53884): Read timed out. (read timeout=120)")': /session/048cec1ddae022c482952d88ba314c8d
+2025-11-21 11:34:20,535 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=53884): Read timed out. (read timeout=120)")': /session/048cec1ddae022c482952d88ba314c8d
+2025-11-21 11:53:38,690 - root - INFO - Test started
+2025-11-21 11:53:38,690 - root - ERROR - something went wrong
+2025-11-21 11:53:38,855 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 11:53:39,701 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 11:53:40,270 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 11:53:40,861 - WDM - INFO - Driver [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-21 11:58:10,813 - root - INFO - Test started
+2025-11-21 11:58:10,814 - root - ERROR - something went wrong
+2025-11-21 11:58:10,977 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 11:58:11,883 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 11:58:12,508 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 11:58:13,091 - WDM - INFO - Driver [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-21 12:04:08,888 - root - INFO - Test started
+2025-11-21 12:04:08,889 - root - ERROR - something went wrong
+2025-11-21 12:04:09,048 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 12:04:09,897 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 12:04:10,545 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 12:04:11,216 - WDM - INFO - Driver [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-21 12:06:23,012 - root - INFO - Test started
+2025-11-21 12:06:23,013 - root - ERROR - something went wrong
+2025-11-21 12:06:23,182 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 12:06:24,113 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 12:06:24,712 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 12:06:25,288 - WDM - INFO - Driver [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-21 12:07:19,802 - root - INFO - Test started
+2025-11-21 12:07:19,802 - root - ERROR - something went wrong
+2025-11-21 12:07:19,969 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 12:07:20,906 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 12:07:21,489 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 12:07:22,048 - WDM - INFO - Driver [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-21 12:08:04,098 - root - INFO - Test started
+2025-11-21 12:08:04,098 - root - ERROR - something went wrong
+2025-11-21 12:08:04,258 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 12:08:05,184 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 12:08:05,803 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 12:08:06,380 - WDM - INFO - Driver [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-21 13:44:58,589 - root - INFO - Test started
+2025-11-21 13:44:58,589 - root - ERROR - something went wrong
+2025-11-21 13:44:58,769 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 13:44:59,884 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 13:45:00,497 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 13:45:01,086 - WDM - INFO - Driver [C:\Users\navee\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
