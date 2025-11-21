@@ -1,8 +1,4 @@
 # Pytest-POM Automation Framework
-
-## License
-Python Pytest License
-
 ## Overview
 A comprehensive, scalable test automation framework built with **Pytest** for Web (Selenium) testing, designed specifically for validating the E2E e-commerce platform. The framework follows industry-standard design patterns to ensure maintainability, reusability, and ease of integration into CI/CD pipelines.
 
