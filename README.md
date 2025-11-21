@@ -19,8 +19,9 @@ A comprehensive, scalable test automation framework built with **Pytest** for We
 - **Cross-Browser Support:** Chrome, Firefox, Edge, and Safari
 
 
-##Project Structure
+## Project Structure
 
+```
 project_root/
 │
 ├── pages/                          # Page Object Models (Web)
@@ -58,7 +59,7 @@ project_root/
 ├── pytest.ini         # Pytest configuration file
 ├── README.md          # project documentation
 ├── requirements.txt   # dependencies
-
+```
 
 ## Getting Started
 ### Prerequisites
